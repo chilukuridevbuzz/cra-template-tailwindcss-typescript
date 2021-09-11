@@ -21,14 +21,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dance2die/cra-template-tailwindcss-typescript"
+		"url": "https://github.com/chilukuridevbuzz/cra-template-tailwindcss-typescript"
 	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=8"
 	},
 	"bugs": {
-		"url": "https://github.com/dance2die/cra-template-tailwindcss-typescript/issues"
+		"url": "https://github.com/chilukuridevbuzz/cra-template-tailwindcss-typescript/issues"
 	},
 	"files": [
 		"template",
