@@ -16,7 +16,10 @@
 			"postcss-preset-env": "6.x",
 			"tailwindcss": "2.x",
 			"npm-run-all": "4.x",
-			"delay-cli": "^1.1.0"
+			"delay-cli": "^1.1.0",
+			"react-redux": "latest",
+			"react-router-dom": "latest",
+			 "redux": "latest"
 		},
 		"scripts": {
 			"build:css": "cross-env TAILWIND_MODE=build NODE_ENV=production postcss src/styles/tailwind.css -o src/styles/index.css",
